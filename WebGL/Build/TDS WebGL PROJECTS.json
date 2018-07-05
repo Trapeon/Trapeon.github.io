@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TDS WebGL PROJECTS.data.unityweb",
+"asmCodeUrl": "TDS WebGL PROJECTS.asm.code.unityweb",
+"asmMemoryUrl": "TDS WebGL PROJECTS.asm.memory.unityweb",
+"asmFrameworkUrl": "TDS WebGL PROJECTS.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
